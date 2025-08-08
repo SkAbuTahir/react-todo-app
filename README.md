@@ -1,12 +1,32 @@
-# React + Vite
+# 📝 React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean Todo App built with **React** as part of the Sigma Web Dev course. It allows users to add, edit, and delete tasks — perfect for daily productivity.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Add new tasks
+- ✏️ Edit existing tasks
+- ❌ Delete tasks
+- 🌙 Clean UI with responsive design
+- ⚛️ Built using React functional components and hooks (`useState`, `useEffect`)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+![App Screenshot](./screenshot.png) <!-- Add a real screenshot here if you have one -->
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, JSX, CSS
+- **Build Tool:** Vite (if used)
+- **Icons:** React Icons
+
+---
+
+## 📂 Folder Structure (simplified)
+
