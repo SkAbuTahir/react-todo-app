@@ -15,8 +15,9 @@ A simple and clean Todo App built with **React** as part of the Sigma Web Dev co
 ---
 
 ## 📸 Preview
+view live 🔴 https://react-todo-app-six-lime-28.vercel.app/
 
-![App Screenshot](./screenshot.png) <!-- Add a real screenshot here if you have one -->
+
 
 ---
 
